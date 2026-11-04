@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Project Path="src/RentalPlatform.Api/RentalPlatform.Api.csproj" Id="a81f34fa-44b1-4068-9a18-df5b93795aeb" />
+  <Project Path="src/RentalPlatform.Application/RentalPlatform.Application.csproj" Id="810889ee-7a5d-4daf-9e15-8a405d7684c9" />
+  <Project Path="src/RentalPlatform.Domain/RentalPlatform.Domain.csproj" Id="90463083-f56d-4913-8708-c48c17adda35" />
+  <Project Path="src/RentalPlatform.Infrastructure/RentalPlatform.Infrastructure.csproj" Id="6565e516-0759-4e7a-b3ff-3a386b97fb7f" />
+</Solution>
